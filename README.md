@@ -1,16 +1,54 @@
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://t.me/paulcodeman">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="My Telegram">
+  </a>
+  <a href="mailto:paulcodeman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail">
+  </a>
+</div>
+<div id="stats" align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue" alt="stats">
+</div>  
 
-<!--
-**paulcodeman/paulcodeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: Web-developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:wave: Привет!
+
+Я Павел, занимаюсь разработкой сайтов
+
+---
+
+### :telephone_receiver: Как связаться?
+
+* Telegram: [paulcodeman](https://t.me/paulcodeman)
+* Email: [paulcodeman@gmail.com](mailto:paulcodeman@gmail.com)
+
+---
+
+### :book: Языки
+
+* Русский (Основной)
+* English
+
+---
+
+### :hammer_and_wrench: Технологии и знания
+
+* HTML ([BEM](https://ru.bem.info/)/[Bootstrap 5](https://getbootstrap.com/))
+* CSS ([SASS/SCSS](https://sass-scss.ru/))
+* JavaScript
+* PHP 8+
+* MySQL
+* Git ([Github](https://github.com/))
+* [1С-Битрикс](https://www.1c-bitrix.ru/)
+
+---
+
+### :man_student: Образование
+
+* Высшее (квалификация: автоматизация производств и управления)
+
+---
+
