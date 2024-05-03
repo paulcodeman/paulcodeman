@@ -48,6 +48,8 @@
 * Python
 * LUA
 * Assembler
+* Go
+* Rust
 
 ---
 
