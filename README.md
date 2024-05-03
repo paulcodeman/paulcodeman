@@ -43,6 +43,11 @@
 * MySQL
 * Git ([Github](https://github.com/))
 * [1С-Битрикс](https://www.1c-bitrix.ru/)
+* Си
+* Си++
+* Python
+* LUA
+* Assembler
 
 ---
 
