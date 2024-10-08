@@ -28,8 +28,7 @@
 ### :briefcase: Проекты
 
 - **[Platify](https://platify.ru/)** - Платформа для создания сайтов и цифровизации бизнеса
-- **[GitHub Portfolio](https://github.com/paulcodeman/portfolio)** - Репозиторий с примерами моих проектов и работ
-- **[MySQL PHP API](https://github.com/paulcodeman/mysql-php-api)** - REST API для взаимодействия с MySQL на PHP
+- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories)** - Репозиторий с примерами моих проектов и работ
 
 ---
 
