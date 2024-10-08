@@ -12,50 +12,57 @@
 
 ---
 
-### :man_technologist: Web-developer
+### :man_technologist: Web-developer | Павел
 
-:wave: Привет!
-
-Я Павел, занимаюсь разработкой сайтов
+Привет, я Павел! Занимаюсь разработкой веб-сайтов, автоматизацией и управлением данных. Люблю создавать удобные и эффективные решения для бизнеса, используя современные веб-технологии и подходы.
 
 ---
 
-### :telephone_receiver: Как связаться?
+### :telephone_receiver: Контакты
 
-* Telegram: [paulcodeman](https://t.me/paulcodeman)
-* Email: [paulcodeman@gmail.com](mailto:paulcodeman@gmail.com)
+* [Telegram: @paulcodeman](https://t.me/paulcodeman)
+* [Email: paulcodeman@gmail.com](mailto:paulcodeman@gmail.com)
+
+---
+
+### :briefcase: Проекты
+
+- **[Platify](https://platify.ru/)** - Платформа для создания сайтов и цифровизации бизнеса
+- **[GitHub Portfolio](https://github.com/paulcodeman/portfolio)** - Репозиторий с примерами моих проектов и работ
+- **[MySQL PHP API](https://github.com/paulcodeman/mysql-php-api)** - REST API для взаимодействия с MySQL на PHP
 
 ---
 
 ### :book: Языки
 
 * Русский (Основной)
-* English
+* English (Intermediate)
 
 ---
 
-### :hammer_and_wrench: Технологии и знания
+### :hammer_and_wrench: Технологии и инструменты
 
-* HTML ([BEM](https://ru.bem.info/)/[Bootstrap 5](https://getbootstrap.com/))
-* CSS ([SASS/SCSS](https://sass-scss.ru/))
-* JavaScript
-* PHP 8+
-* MySQL
-* Git ([Github](https://github.com/))
-* [1С-Битрикс](https://www.1c-bitrix.ru/)
-* Си
-* Си++
-* Python
-* LUA
-* Assembler
-* Go
-* Rust
+* **Frontend:** HTML ([BEM](https://ru.bem.info/)/[Bootstrap 5](https://getbootstrap.com/)), CSS ([SASS/SCSS](https://sass-scss.ru/)), JavaScript
+* **Backend:** PHP 8+, MySQL, [1С-Битрикс](https://www.1c-bitrix.ru/), Python
+* **DevOps:** Git ([GitHub](https://github.com/)), Nginx
+* **Системные языки:** Си, Си++, Assembler, Go, Rust
+* **Прочее:** LUA, HTMX
 
 ---
 
 ### :man_student: Образование
 
-* Высшее (квалификация: автоматизация производств и управления)
+* Высшее образование: Автоматизация производств и управления
+* Дополнительные курсы: Веб-разработка, Backend-программирование, системное администрирование
 
 ---
+
+### :sparkles: Интересы
+
+* Разработка высоконагруженных веб-систем
+* Автоматизация процессов
+* Интеграция веб-сервисов и API
+* Нейронные сети и искусственный интеллект
+
+
 
