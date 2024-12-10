@@ -27,7 +27,7 @@
 
 ### :briefcase: Проекты
 
-- **[Platify](https://platify.ru/)** - Платформа для создания сайтов и цифровизации бизнеса
+- **[Tagix](https://tagix.tech/)** - Платформа для создания сайтов и цифровизации бизнеса
 - **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories)** - Репозиторий с примерами моих проектов и работ
 
 ---
