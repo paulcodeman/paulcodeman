@@ -1,67 +1,64 @@
 <div id="badges" align="center">
-  <a href="https://t.me/paulcodeman">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="My Telegram">
+  <a href="https://t.me/paulcodeman" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:paulcodeman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="My Gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 <div id="stats" align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue" alt="stats">
-</div>  
+  <img src="https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue" alt="Profile Views">
+</div>
 
 ---
 
-### :man_technologist: Web-developer | Павел
+### :man_technologist: Павел — Web-Developer  
 
-Привет, я Павел! Занимаюсь разработкой веб-сайтов, автоматизацией и управлением данных. Люблю создавать удобные и эффективные решения для бизнеса, используя современные веб-технологии и подходы.
+Привет! Я Павел, веб-разработчик с опытом в создании веб-сайтов, автоматизации и управлении данными. Моя цель — проектировать удобные и эффективные решения для бизнеса с использованием современных технологий и подходов.
 
 ---
 
 ### :telephone_receiver: Контакты
 
-* [Telegram: @paulcodeman](https://t.me/paulcodeman)
-* [Email: paulcodeman@gmail.com](mailto:paulcodeman@gmail.com)
+- **[Telegram](https://t.me/paulcodeman):** @paulcodeman  
+- **[Email](mailto:paulcodeman@gmail.com):** paulcodeman@gmail.com  
 
 ---
 
-### :briefcase: Проекты
+### :briefcase: Мои проекты
 
-- **[Tagix](https://tagix.tech/)** - Платформа для создания сайтов и цифровизации бизнеса
-- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories)** - Репозиторий с примерами моих проектов и работ
-
----
-
-### :book: Языки
-
-* Русский (Основной)
-* English (Intermediate)
+- **[Tagix](https://tagix.tech/):** Платформа для создания сайтов и цифровизации бизнеса  
+- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories):** Репозитории с примерами моих проектов и работ  
 
 ---
 
-### :hammer_and_wrench: Технологии и инструменты
+### :book: Владею языками
 
-* **Frontend:** HTML ([BEM](https://ru.bem.info/)/[Bootstrap 5](https://getbootstrap.com/)), CSS ([SASS/SCSS](https://sass-scss.ru/)), JavaScript
-* **Backend:** PHP 8+, MySQL, [1С-Битрикс](https://www.1c-bitrix.ru/), Python
-* **DevOps:** Git ([GitHub](https://github.com/)), Nginx
-* **Системные языки:** Си, Си++, Assembler, Go, Rust
-* **Прочее:** LUA, HTMX
+- **Русский** (родной)  
+- **English** (Intermediate)  
+
+---
+
+### :hammer_and_wrench: Навыки и инструменты
+
+- **Frontend:** HTML ([BEM](https://ru.bem.info/), [Bootstrap 5](https://getbootstrap.com/)), CSS ([SASS/SCSS](https://sass-scss.ru/)), JavaScript  
+- **Backend:** PHP 8+, MySQL, [1С-Битрикс](https://www.1c-bitrix.ru/), Python  
+- **DevOps:** Git ([GitHub](https://github.com/)), Nginx  
+- **Системные языки:** C, C++, Assembler, Go, Rust  
+- **Прочее:** LUA, HTMX  
 
 ---
 
 ### :man_student: Образование
 
-* Высшее образование: Автоматизация производств и управления
-* Дополнительные курсы: Веб-разработка, Backend-программирование, системное администрирование
+- **Высшее образование:** Автоматизация производственных процессов  
+- **Дополнительное:** Курсы по веб-разработке, backend-программированию и системному администрированию  
 
 ---
 
 ### :sparkles: Интересы
 
-* Разработка высоконагруженных веб-систем
-* Автоматизация процессов
-* Интеграция веб-сервисов и API
-* Нейронные сети и искусственный интеллект
-
-
-
+- Разработка высоконагруженных веб-систем  
+- Автоматизация бизнес-процессов  
+- Интеграция веб-сервисов и API  
+- Нейронные сети и искусственный интеллект  
