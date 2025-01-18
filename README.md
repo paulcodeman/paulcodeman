@@ -12,7 +12,7 @@
 
 ---
 
-### :man_technologist: Павел — Web-Developer (Pavel — Web Developer)  
+### :man_technologist: Павел — Web-Developer (Paul — Web Developer)  
 
 Привет! Я Павел, веб-разработчик с опытом в создании веб-сайтов, автоматизации и управлении данными. Моя цель — проектировать удобные и эффективные решения для бизнеса с использованием современных технологий и подходов.  
 Hi! I’m Pavel, a web developer with experience in creating websites, automation, and data management. My goal is to design user-friendly and efficient solutions for businesses using modern technologies and approaches.
