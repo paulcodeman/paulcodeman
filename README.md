@@ -12,34 +12,35 @@
 
 ---
 
-### :man_technologist: Павел — Web-Developer  
+### :man_technologist: Павел — Web-Developer (Pavel — Web Developer)  
 
-Привет! Я Павел, веб-разработчик с опытом в создании веб-сайтов, автоматизации и управлении данными. Моя цель — проектировать удобные и эффективные решения для бизнеса с использованием современных технологий и подходов.
+Привет! Я Павел, веб-разработчик с опытом в создании веб-сайтов, автоматизации и управлении данными. Моя цель — проектировать удобные и эффективные решения для бизнеса с использованием современных технологий и подходов.  
+Hi! I’m Pavel, a web developer with experience in creating websites, automation, and data management. My goal is to design user-friendly and efficient solutions for businesses using modern technologies and approaches.
 
 ---
 
-### :telephone_receiver: Контакты
+### :telephone_receiver: Контакты (Contacts)
 
 - **[Telegram](https://t.me/paulcodeman):** @paulcodeman  
 - **[Email](mailto:paulcodeman@gmail.com):** paulcodeman@gmail.com  
 
 ---
 
-### :briefcase: Мои проекты
+### :briefcase: Мои проекты (My Projects)
 
 - **[Tagix](https://tagix.tech/):** Платформа для создания сайтов и цифровизации бизнеса  
 - **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories):** Репозитории с примерами моих проектов и работ  
 
 ---
 
-### :book: Владею языками
+### :book: Владею языками (Languages I Speak) 
 
 - **Русский** (родной)  
 - **English** (Intermediate)  
 
 ---
 
-### :hammer_and_wrench: Навыки и инструменты
+### :hammer_and_wrench: Навыки и инструменты (Skills & Tools)
 
 - **Frontend:** HTML ([BEM](https://ru.bem.info/), [Bootstrap 5](https://getbootstrap.com/)), CSS ([SASS/SCSS](https://sass-scss.ru/)), JavaScript  
 - **Backend:** PHP 8+, MySQL, [1С-Битрикс](https://www.1c-bitrix.ru/), Python  
@@ -49,16 +50,20 @@
 
 ---
 
-### :man_student: Образование
+### :man_student: Образование (Education)
 
 - **Высшее образование:** Автоматизация производственных процессов  
 - **Дополнительное:** Курсы по веб-разработке, backend-программированию и системному администрированию  
 
 ---
 
-### :sparkles: Интересы
+### :sparkles: Интересы (Interests)
 
 - Разработка высоконагруженных веб-систем  
 - Автоматизация бизнес-процессов  
 - Интеграция веб-сервисов и API  
 - Нейронные сети и искусственный интеллект  
+- Development of high-load web systems  
+- Business process automation  
+- Web service and API integration  
+- Neural networks and artificial intelligence  
