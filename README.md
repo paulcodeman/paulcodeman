@@ -63,7 +63,8 @@ Hi! I’m Pavel, a web developer with experience in creating websites, automatio
 - Разработка высоконагруженных веб-систем  
 - Автоматизация бизнес-процессов  
 - Интеграция веб-сервисов и API  
-- Нейронные сети и искусственный интеллект  
+- Нейронные сети и искусственный интеллект
+
 - Development of high-load web systems  
 - Business process automation  
 - Web service and API integration  
