@@ -7,7 +7,7 @@
 
 <!-- Статистические карточки -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulcodeman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)](https://github.com/paulcodeman)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcodeman&layout=compact&theme=transparent&hide_border=true)](https://github.com/paulcodeman):cite[2]:cite[6]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcodeman&layout=compact&theme=transparent&hide_border=true)](https://github.com/paulcodeman)
 
 </div>
 
