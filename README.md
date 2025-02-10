@@ -1,71 +1,65 @@
-<div id="badges" align="center">
-  <a href="https://t.me/paulcodeman" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:paulcodeman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-<div id="stats" align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue" alt="Profile Views">
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@paulcodeman-blue?style=flat-square&logo=telegram)](https://t.me/paulcodeman)
+[![Gmail](https://img.shields.io/badge/paulcodeman@gmail.com-red?style=flat-square&logo=gmail)](mailto:paulcodeman@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue)](https://github.com/paulcodeman)
+
 </div>
 
 ---
 
-### :man_technologist: Павел — Web-Developer (Paul — Web Developer)  
-
-Привет! Я Павел, веб-разработчик с опытом в создании веб-сайтов, автоматизации и управлении данными. Моя цель — проектировать удобные и эффективные решения для бизнеса с использованием современных технологий и подходов.
-
-Hi! I’m Pavel, a web developer with experience in creating websites, automation, and data management. My goal is to design user-friendly and efficient solutions for businesses using modern technologies and approaches.
+### 👨💻 Павел / Pavel  
+**Full Stack Developer** | Создаю комплексные веб-решения / Building end-to-end web solutions
 
 ---
 
-### :telephone_receiver: Контакты (Contacts)
+🛠 **Технологический стек / Tech Stack**  
+<div align="center">
 
-- **[Telegram](https://t.me/paulcodeman):** @paulcodeman  
-- **[Email](mailto:paulcodeman@gmail.com):** paulcodeman@gmail.com  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
-
-### :briefcase: Мои проекты (My Projects)
-
-- **[Tagix](https://tagix.tech/):** Платформа для создания сайтов и цифровизации бизнеса  
-- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories):** Репозитории с примерами моих проектов и работ  
-
----
-
-### :book: Владею языками (Languages I Speak) 
-
-- **Русский** (родной)  
-- **English** (Intermediate)  
+</div>
 
 ---
 
-### :hammer_and_wrench: Навыки и инструменты (Skills & Tools)
+🚀 **Ключевые проекты / Key Projects**  
+- **[Tagix](https://tagix.tech/)**  
+  Платформа для цифровизации бизнеса | Business digitalization platform  
+  `PHP` `MySQL` `JavaScript`
 
-- **Frontend:** HTML ([BEM](https://ru.bem.info/), [Bootstrap 5](https://getbootstrap.com/)), CSS ([SASS/SCSS](https://sass-scss.ru/)), JavaScript  
-- **Backend:** PHP 8+, MySQL, [1С-Битрикс](https://www.1c-bitrix.ru/), Python  
-- **DevOps:** Git ([GitHub](https://github.com/)), Nginx  
-- **Системные языки:** C, C++, Assembler, Go, Rust  
-- **Прочее:** LUA, HTMX  
-
----
-
-### :man_student: Образование (Education)
-
-- **Высшее образование:** Автоматизация производственных процессов  
-- **Дополнительное:** Курсы по веб-разработке, backend-программированию и системному администрированию  
+- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories)**  
+  Примеры полного цикла разработки | Full-stack development examples  
+  `HTML/CSS` `REST API` `Python Automation`
 
 ---
 
-### :sparkles: Интересы (Interests)
+🎯 **Экспертиза / Expertise**  
+- Full-stack веб-разработка (Frontend + Backend)
+- Интеграция платежных систем и API
+- Оптимизация производительности веб-приложений
+- Миграция legacy-систем на современные технологии
 
-- Разработка высоконагруженных веб-систем  
-- Автоматизация бизнес-процессов  
-- Интеграция веб-сервисов и API  
-- Нейронные сети и искусственный интеллект
-###
-- Development of high-load web systems  
-- Business process automation  
-- Web service and API integration  
-- Neural networks and artificial intelligence  
+---
+
+📚 **Образование / Education**  
+- **Калининградский государственный технический университет**  
+  Автоматизация производственных процессов (2011-2015)
+  
+---
+
+🌱 **Сейчас изучаю / Currently Learning**  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+📫 **Как связаться / How to Reach Me**  
+[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/paulcodeman)  
+[![Email](https://img.shields.io/badge/Отправить_Email-EA4335?style=for-the-badge&logo=gmail)](mailto:paulcodeman@gmail.com)
