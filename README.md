@@ -14,7 +14,6 @@
 ---
 
 🛠 **Технологический стек / Tech Stack**  
-<div align="center">
 
 ### 🖥 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -35,8 +34,6 @@
 
 ### 🔌 Low-Level
 ![Assembly](https://img.shields.io/badge/Assembly-8E8E8E?logo=assemblyscript&logoColor=white)
-
-</div>
 
 ---
 
