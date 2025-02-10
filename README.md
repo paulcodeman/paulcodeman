@@ -1,74 +1,62 @@
 <div align="center">
+  <!-- Анимированный заголовок с волнами -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Приветствую!👋&fontSize=50&fontAlignY=40&animation=twinkling" alt="Header"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@paulcodeman-blue?style=flat-square&logo=telegram)](https://t.me/paulcodeman)
-[![Gmail](https://img.shields.io/badge/paulcodeman@gmail.com-red?style=flat-square&logo=gmail)](mailto:paulcodeman@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=paulcodeman&style=flat-square&color=blue)](https://github.com/paulcodeman)
+<!-- Тайпинг-эффект для приветствия -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=26&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Создаю+комплексные+веб-решения;Люблю+низкоуровневое+программирование)](https://git.io/typing-svg)
+
+<!-- Статистические карточки -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulcodeman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)](https://github.com/paulcodeman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcodeman&layout=compact&theme=transparent&hide_border=true)](https://github.com/paulcodeman):cite[2]:cite[6]
 
 </div>
 
 ---
 
-### 👨💻 Павел / Pavel  
-**Full Stack Developer** | Создаю комплексные веб-решения / Building end-to-end web solutions
+### 🛠 **Технологический стек** <img src="https://skillicons.dev/icons?i=git,vscode" width="30px"/>
+
+<div align="center">
+
+**📚 Языки программирования**  
+![C](https://skillicons.dev/icons?i=c,cpp,rust,python,php,js&perline=6)
+
+**🌐 Веб-технологии**  
+![HTML5](https://skillicons.dev/icons?i=html,css,apache&perline=3)
+
+**🔧 Инструменты**  
+![Tools](https://skillicons.dev/icons?i=git,mysql,docker,linux,nginx,postman&perline=6):cite[6]
+
+**🚀 Изучаю**  
+![Learning](https://skillicons.dev/icons?i=go,rust,docker,kubernetes,aws,grafana&perline=6)
+
+</div>
 
 ---
 
-🛠 **Технологический стек / Tech Stack**  
+### 🚀 **Ключевые проекты**
 
-### 🖥 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<div align="center">
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+**Цифровизация бизнеса**  
+`PHP` `MySQL` `JavaScript` `REST API`  
+_Платформа для автоматизации бизнес-процессов с интеграцией платежных систем_
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**Примеры разработки**  
+`Python` `FastAPI` `React` `Docker`  
+_Полный цикл разработки: от прототипа до production-развертывания_
 
-### 🔌 Low-Level
-![Assembly](https://img.shields.io/badge/Assembly-8E8E8E?logo=assemblyscript&logoColor=white)
+</div>
 
 ---
 
-🚀 **Ключевые проекты / Key Projects**  
-- **[Tagix](https://tagix.tech/)**  
-  Платформа для цифровизации бизнеса | Business digitalization platform  
-  `PHP` `MySQL` `JavaScript`
+### 📊 **Активность**
 
-- **[GitHub Portfolio](https://github.com/paulcodeman?tab=repositories)**  
-  Примеры полного цикла разработки | Full-stack development examples  
-  `HTML/CSS` `REST API` `Python Automation`
-
----
-
-🎯 **Экспертиза / Expertise**  
-- Full-stack веб-разработка (Frontend + Backend)
-- Интеграция платежных систем и API
-- Оптимизация производительности веб-приложений
-- Миграция legacy-систем на современные технологии
-
----
-
-📚 **Образование / Education**  
-- **Калининградский государственный технический университет**  
-  Автоматизация производственных процессов (2011-2015)
-  
----
-
-🌱 **Сейчас изучаю / Currently Learning**  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-📫 **Как связаться / How to Reach Me**  
-[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/paulcodeman)  
-[![Email](https://img.shields.io/badge/Отправить_Email-EA4335?style=for-the-badge&logo=gmail)](mailto:paulcodeman@gmail.com)
+<!-- WakaTime статистика -->
+```mermaid
+pie
+    title Еженедельная активность
+    "Rust" : 35
+    "Python" : 25
+    "PHP" : 20
+    "C++" : 15
+    "Другое" : 5
