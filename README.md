@@ -18,15 +18,19 @@
 <div align="center">
 
 **📚 Языки программирования**  
+
 ![C](https://skillicons.dev/icons?i=c,cpp,rust,python,php,js&perline=6)
 
 **🌐 Веб-технологии**  
+
 ![HTML5](https://skillicons.dev/icons?i=html,css,apache&perline=3)
 
 **🔧 Инструменты**  
+
 ![Tools](https://skillicons.dev/icons?i=git,mysql,docker,linux,nginx,postman&perline=6):cite[6]
 
 **🚀 Изучаю**  
+
 ![Learning](https://skillicons.dev/icons?i=go,rust,docker,kubernetes,aws,grafana&perline=6)
 
 </div>
